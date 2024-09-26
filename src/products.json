@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Laptop",
+        "category": "electronics",
+        "price": 999
+    },
+    {
+        "name": "Shirt",
+        "category": "clothing",
+        "price": 29
+    },
+    {
+        "name": "Smartphone",
+        "category": "electronics",
+        "price": 699
+    },
+    {
+        "name": "Pants",
+        "category": "clothing",
+        "price": 49
+    }
+]
